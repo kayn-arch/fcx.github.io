@@ -17,42 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Biography：
+I received a B.S. degree in Vehicle Engineering from Nanjing Institute of Technology, Nanjing, China, in 2021. I received a M.S. degree in Communications and Transportation from Shandong Jiaotong University, Jinan, China, in 2024. I am currently working toward a Ph.D. degree in Vehicle Engineering at the School of Automobile, Chang'an University, Xi’an, China.
+My research interests include
+Fuel cell life prediction 
+Deep Learning
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Educations：
+- *2017.09 - 2021.06*:&nbsp;🎉🎉  vehicle engineering，Nanjing Institute of Technology 
+- *2021.09 -2024.06*: &nbsp;🎉🎉  Communications and Transportation，Shandong Jiaotong University.
+- *2024.09- Date *:  &nbsp;🎉🎉   vehicle engineering，Chang’an University. 
 
 # 📝 Publications 
+1. J Zhou, J Zhang, F Yi, C Feng, et al. A real-time prediction method for PEMFC life under actual operating conditions[J]. Sustainable Energy Technologies and Assessments, 2024, 70: 103949.
+2.C Feng, Y Sun, X Shu, W Guo. A lifespan decline prediction method of proton exchange membrane fuel cell based on frequency enhanced decomposed transformer. International Journal of Engineering Inventions.
+3.J Zhou, C Feng, Q Su, S Jiang, Z Fan, J Ruan, S Sun, L Hu. The Multi-Objective Optimization of Powertrain Design and Energy Management Strategy for Fuel Cell–Battery Electric Vehicle. Sustainability.
+4.F Yi, Q Su, C Feng, X Wang, L Yang, J Zhou, Z Fan, S Jiang, Z Zhang, T Yu, B Deng. Response analysis and stator optimization of ultra-high-speed PMSM for fuel cell electric air compressor. IEEE Transactions on Transportation Electrification.
+5.J Zhou, J Liu, Q Su, C Feng, X Wang, D Hu, F Yi, C Jia, Z Fan, S Jiang. Heat dissipation enhancement structure design of two-stage electric air compressor for fuel cell vehicles considering efficiency improvement. Sustainability.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Projects：
+Participate in the application for Shandong Science and Technology in 2023, China Machinery Industry Science and Technology in 2022, 
+and China Patent Award in 2022, and participate in the writing of science and technology award nominations and the preparation of defense PPTs.
