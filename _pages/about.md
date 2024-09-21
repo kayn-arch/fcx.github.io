@@ -26,9 +26,9 @@ My research interests include
 - Deep Learning
 
 # Educations：
--  *2017.09 - 2021.06*:&nbsp;🎉🎉  vehicle engineering，Nanjing Institute of Technology 
+-  *2017.09 - 2021.06*:&nbsp;🎉🎉  Vehicle Engineering，Nanjing Institute of Technology 
 -  *2021.09 -2024.06*: &nbsp;🎉🎉  Communications and Transportation，Shandong Jiaotong University.
--   2024.09- Date :  &nbsp;🎉🎉   vehicle engineering，Chang’an University.
+-   2024.09- Date :  &nbsp;🎉🎉   Vehicle Engineering，Chang’an University.
   
 # 📝 Publications :
 -  J Zhou, J Zhang, F Yi, C Feng, et al. A real-time prediction method for PEMFC life under actual operating conditions[J]. Sustainable Energy Technologies and Assessments, 2024, 70: 103949.
