@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "xueshu"
-description              : " E-mail:feng_chunxiao99@163.com "
-description2             : " Phone Number:15195877820"                    
+description              : "E-mail:feng_chunxiao99@163.com"                  
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "冯春晓"
   avatar           : "images/1.png"
-  bio              : "Chang’an University"
+  bio              : "Phone Number:15195877820"
   location         : "Xi’an, China"
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
