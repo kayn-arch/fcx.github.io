@@ -21,8 +21,9 @@ redirect_from:
 I received a B.S. degree in Vehicle Engineering from Nanjing Institute of Technology, Nanjing, China, in 2021. I received a M.S. degree in Communications and Transportation from Shandong Jiaotong University, Jinan, China, in 2024. I am currently working toward a Ph.D. degree in Vehicle Engineering at the School of Automobile, Chang'an University, Xi’an, China.
 
 My research interests include
-Fuel cell life prediction 
-Deep Learning
+
+- Fuel cell life prediction 
+- Deep Learning
 
 # Educations：
 -  *2017.09 - 2021.06*:&nbsp;🎉🎉  vehicle engineering，Nanjing Institute of Technology 
