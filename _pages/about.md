@@ -28,13 +28,13 @@ My research  focuses on applying deep learning techniques to predict the lifetim
 -   2024.09 - Date :  &nbsp;   Vehicle Engineering，Chang’an University.
   
 # Publications :
-- J Zhou, J Zhang, F Yi, C Feng, et al. A real-time prediction method for PEMFC life under actual operating conditions[J]. Sustainable Energy Technologies and
+- J Zhou, J Zhang, F Yi, **C Feng**, et al. A real-time prediction method for PEMFC life under actual operating conditions[J]. Sustainable Energy Technologies and
   Assessments, 2024, 70: 103949.
-- J Zhou, C Feng, Q Su, S Jiang, Z Fan, J Ruan, S Sun, L Hu. The Multi-Objective Optimization of Powertrain Design and Energy Management Strategy for Fuel Cell-Battery Electric Vehicle [J]. 
- Sustainability, 2022, 14(10): 6320.
-- F Yi, Q Su, C Feng, X Wang, L Yang, J Zhou, Z Fan, S Jiang, Z Zhang, T Yu, B Deng. Response analysis and stator optimization of ultra-high-speed PMSM 
+- J Zhou, **C Feng**, Q Su, S Jiang, Z Fan, J Ruan, S Sun, L Hu. The Multi-Objective Optimization of Powertrain Design and Energy Management Strategy for Fuel Cell-Battery Electric Vehicle 
+  [J]. Sustainability, 2022, 14(10): 6320.
+- F Yi, Q Su, **C Feng**, X Wang, L Yang, J Zhou, Z Fan, S Jiang, Z Zhang, T Yu, B Deng. Response analysis and stator optimization of ultra-high-speed PMSM 
  for fuel cell electric air compressor [J]. IEEE Transactions on Transportation Electrification,1011，14(10):6320
-- J Zhou, J Liu, Q Su, C Feng, X Wang, D Hu, F Yi, C Jia, Z Fan, S Jiang. Heat dissipation enhancement structure design of two-stage electric air compressor for fuel cell vehicles 
+- J Zhou, J Liu, Q Su, **C Feng**, X Wang, D Hu, F Yi, C Jia, Z Fan, S Jiang. Heat dissipation enhancement structure design of two-stage electric air compressor for fuel cell vehicles 
  considering efficiency improvement [J]. Sustainability, 2022, 14(12):7259
 
 # Projects：
