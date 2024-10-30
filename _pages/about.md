@@ -30,11 +30,11 @@ My research  focuses on applying deep learning techniques to predict the lifetim
 # Publications :
 - J Zhou, J Zhang, F Yi, C Feng, et al. A real-time prediction method for PEMFC life under actual operating conditions[J]. Sustainable Energy Technologies and
   Assessments, 2024, 70: 103949.
--J Zhou, C Feng, Q Su, S Jiang, Z Fan, J Ruan, S Sun, L Hu. The Multi-Objective Optimization of Powertrain Design and Energy Management Strategy for Fuel Cell-Battery Electric Vehicle [J]. 
+- J Zhou, C Feng, Q Su, S Jiang, Z Fan, J Ruan, S Sun, L Hu. The Multi-Objective Optimization of Powertrain Design and Energy Management Strategy for Fuel Cell-Battery Electric Vehicle [J]. 
  Sustainability, 2022, 14(10): 6320.
--F Yi, Q Su, C Feng, X Wang, L Yang, J Zhou, Z Fan, S Jiang, Z Zhang, T Yu, B Deng. Response analysis and stator optimization of ultra-high-speed PMSM 
+- F Yi, Q Su, C Feng, X Wang, L Yang, J Zhou, Z Fan, S Jiang, Z Zhang, T Yu, B Deng. Response analysis and stator optimization of ultra-high-speed PMSM 
  for fuel cell electric air compressor [J]. IEEE Transactions on Transportation Electrification,1011，14(10):6320
--J Zhou, J Liu, Q Su, C Feng, X Wang, D Hu, F Yi, C Jia, Z Fan, S Jiang. Heat dissipation enhancement structure design of two-stage electric air compressor for fuel cell vehicles 
+- J Zhou, J Liu, Q Su, C Feng, X Wang, D Hu, F Yi, C Jia, Z Fan, S Jiang. Heat dissipation enhancement structure design of two-stage electric air compressor for fuel cell vehicles 
  considering efficiency improvement [J]. Sustainability, 2022, 14(12):7259
-# 🎖 Projects：
+# Projects：
 Participate in the application for the 2023 Shandong Science and Technology Award (responsible for writing the innovation and social benefit parts of the science and technology award), the 2022 China Machinery Industry Science and Technology Award (responsible for writing the first draft of the text of the science and technology award), and the 2022 China Patent Award (participate in the PPT drawing of the patent award), and participate in the writing of the science and technology award nomination and the preparation of the defense PPT.
