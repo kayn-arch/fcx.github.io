@@ -36,5 +36,6 @@ My research  focuses on applying deep learning techniques to predict the lifetim
  for fuel cell electric air compressor [J]. IEEE Transactions on Transportation Electrification,1011，14(10):6320
 - J Zhou, J Liu, Q Su, C Feng, X Wang, D Hu, F Yi, C Jia, Z Fan, S Jiang. Heat dissipation enhancement structure design of two-stage electric air compressor for fuel cell vehicles 
  considering efficiency improvement [J]. Sustainability, 2022, 14(12):7259
+
 # Projects：
 Participate in the application for the 2023 Shandong Science and Technology Award (responsible for writing the innovation and social benefit parts of the science and technology award), the 2022 China Machinery Industry Science and Technology Award (responsible for writing the first draft of the text of the science and technology award), and the 2022 China Patent Award (participate in the PPT drawing of the patent award), and participate in the writing of the science and technology award nomination and the preparation of the defense PPT.
